@@ -1,0 +1,6 @@
+obj/*
+bin/*
+hash-results.txt
+
+# vscode crap
+.vscode/
