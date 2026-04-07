@@ -1,5 +1,8 @@
 # Brute-force SHA-256 guesser
 
+## Disclaimer
+# This is code written by me **at 16**, which I don't understand anymore.
+
 ## Features
 - Multithreaded (NO THREAD SAFETY)
 - Designed for linux operating systems
