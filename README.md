@@ -1,5 +1,5 @@
 # Brute-force SHA-256 guesser
-*Note: This app is not meant to be used for efficient hash guessing, if you need to guess simple hashes there are probably better alternatives*
+
 ## Features
 - Multithreaded (NO THREAD SAFETY)
 - Designed for linux operating systems
@@ -20,4 +20,4 @@ You can find executable at bin/ directory after running `make`
 ## Credits
 I used sha-256 algorithm provided by [this repository](https://github.com/B-Con/crypto-algorithms) made by Brad Conte.
 
-THERE'S NO LICENSE
+Quantum computer highly recommended
